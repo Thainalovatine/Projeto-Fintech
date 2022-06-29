@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Latin:wght@400;600&display=swap');
+
+html, body {
+    min-height: 100% !important;
+    height: 100%;
+}
+
+body {
+    font-family: 'Anek Latin', sans-serif;
+    box-sizing: border-box;
+
+}
+
+header.make{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #c4c4c4;
+
+}
+
+img.logo-login{
+    width: 80px;
+}
+
+img.logo {
+    width: 30px;
+    display:flex;
+    margin-right: 10px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+form.login {
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+form.login label {
+    text-align: left;
+    width: 100%;
+}
+
+form.login .salvar-senha {
+    width: auto;
+}
+
+form.login .btn {
+    color: #ffffff;
+    width: 100%;
+    margin-top: 5px;
+
+}
+
+
+form.login .btn-cadastro {
+    display: block;
+}
+
+form.login .btn-facebook {
+    background-color: #0B1462;
+}
+
+form.login .btn-gmail {
+    background-color: #EB0505;
+
+}
+
+
+
+
+
+/* Menu Inicial*/
+
+
+div.opcao-menu div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    border: 2px solid black;
+}
+
+img.conteiner {
+    width: 50%;
+}
+
+img.conteiner .i3 {
+    float: right;
+    width: 50%;
+
+
+
+
+/* Menu Inicial*/
+
+
+}
+
+div.info {
+    background-color: #c1c1c163;
+
+}
+
+
+
+div.info2 {
+    background-color: #c1c1c163;
+
+}
+
+a.btndespesas {
+    background-color: #c4c4c4;
+    width: 100%;
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    left:0;
+}
+
+a.btninvestimentos {
+    background-color: #c4c4c4;
+    width: 100%;
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    left:0;
+}
+
+
+/*Adicionar*/
+
+a.btnadc {
+    background-color: #c4c4c4;
+
+}
+
+
+form.adc {
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+a.btn {
+    width: 100%;
+    margin-top: 5px;
+
+}
+
+/*Cadastro*/
+
+
+form.adc-cadastro {
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+a.btn {
+    width: 100%;
+    margin-top: 5px;
+
+}
+
